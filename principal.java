@@ -10,7 +10,7 @@ public class principal {
 		Scanner leer = new Scanner(System.in);
 		int op;
 		do {
-        System.out.println("****************OPERACIONES CON UNA LISTA ENLAZADA**************************\n\n");
+        System.out.println("****************OPERACIONES CON UNA LISTA ENLAZADA DOBLE**************************\n\n");
         System.out.println("**********************************************************");
         System.out.println("1. agregar nodo al inicio");
         System.out.println("2. agregar nodo al final");
